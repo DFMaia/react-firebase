@@ -2,6 +2,12 @@
 > ### Se você está aqui para consultar React  👇:
 > - 
 > - É utilizado o [Firebase](https://firebase.google.com/?hl=pt-br) (gratuito)
+> - O firebase é um banco de dados **_não relacional_** online e será utilizado nesse projeto para que testar o comportamento do React frente a um DB.
+> - É preciso instalar a dependência. Execute o comando no `CMD` dentro da pasta do projeto: `yarn add firebase`.
+> - Dentro do arquivo `firabaseConnection` existe uma configuração para o firebase.
+> - No commit 3 de nome "Commit 3" tem um código mais completo simulando o login, logout, cadastro de dados, alteração de dado e exclusão. 
+>
+> Documentação firebase: https://firebase.google.com/docs
 > ### Se você está aqui para estudar  👇:
 > 
 > É uma continuação de alguns projetos anteriores:

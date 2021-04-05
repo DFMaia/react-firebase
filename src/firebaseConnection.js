@@ -1,5 +1,6 @@
 import firebase from 'firebase/app';
 import 'firebase/firestore';
+import 'firebase/auth'; // isso aqui é o processo de autenticação
 
 let firebaseConfig = {
     apiKey: "AIzaSyBr_RqSSOC-bMdZlsuhYktdfpNolT0Gsa8",
