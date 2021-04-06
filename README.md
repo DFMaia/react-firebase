@@ -6,6 +6,7 @@
 > - É preciso instalar a dependência. Execute o comando no `CMD` dentro da pasta do projeto: `yarn add firebase`.
 > - Dentro do arquivo `firabaseConnection` existe uma configuração para o firebase.
 > - No commit 3 de nome "Commit 3" tem um código mais completo simulando o login, logout, cadastro de dados, alteração de dado e exclusão. 
+> - No commit 4 temos código de login e logout. 
 >
 > Documentação firebase: https://firebase.google.com/docs
 > ### Se você está aqui para estudar  👇:
@@ -25,7 +26,7 @@
 > > - [Projeto Deploy](https://github.com/DFMaia/react-fazendo-deploy)
 > 
 > > _**Próximo Projeto:**_
-> > - ?
+> > - [Context API](https://github.com/DFMaia/context-api)
 
 ### Sobre os links:
 
